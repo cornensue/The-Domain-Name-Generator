@@ -2,7 +2,7 @@
 let pronoun = ["the", "our"];
 let adj = ["great", "big"];
 let noun = ["jogger", "racoon"];
-let extentions = ["com", "net", "us", "io"];
+let extentions = ["com", "net", "us", "io"]; // El array con las extensiones
 
 for (let p of pronoun) {
   for (let a of adj) {
